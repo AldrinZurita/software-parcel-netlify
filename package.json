@@ -8,6 +8,7 @@
   "main": "index.js",
   "scripts": {
     "start": "parcel serve base-js/index.html",
+    "build": "parcel build base-js/index.html",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "devDependencies": {
